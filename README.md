@@ -5,7 +5,8 @@ Proyek ini menunjukkan teknik peningkatan gambar menggunakan **Histogram Equaliz
 ## 📁 File
 - `church.jpg` — Gambar sumber yang digunakan untuk peningkatan.
 - `image_contrast.py` — Skrip Python utama untuk melakukan peningkatan dan analisis.
-sumber gambar dari https://github.com/AndyHuang1995
+
+sumber gambar dari : https://github.com/AndyHuang1995
 
 ## 📷 Teknik yang Diimplementasikan
 
