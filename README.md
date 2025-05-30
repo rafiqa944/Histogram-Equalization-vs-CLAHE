@@ -22,3 +22,9 @@ Skrip akan menampilkan:
 - Gambar asli, gambar yang telah disetarakan histogram, dan gambar CLAHE.
 - Histogram dari setiap versi.
 - Nilai PSNR untuk kedua teknik peningkatan.
+
+![image](https://github.com/user-attachments/assets/830e6f5b-1d0d-425e-ac76-0edbf6db52e0)
+
+PSNR Histogram Equalization: 15.00 dB
+PSNR CLAHE: 16.21 dB
+
