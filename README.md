@@ -20,7 +20,6 @@ Meningkatkan kontras lokal, terutama berguna di area dengan pencahayaan yang ber
 Metrik yang digunakan untuk membandingkan kesamaan antara gambar asli dan yang ditingkatkan.
 
 ## 📊 Output
-Skrip akan menampilkan:
 - Gambar asli, gambar yang telah disetarakan histogram, dan gambar CLAHE.
 - Histogram dari setiap versi.
 - Nilai PSNR untuk kedua teknik peningkatan.
